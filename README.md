@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ayoub Aouad (@aouadayoub)
+# 👋 Hi there! I'm Ayoub Aouad
 
 Welcome to my GitHub profile! I’m an **AWS Certified Data Engineer Associate**, with a passion for building scalable data pipelines, developing SaaS platforms, and solving real-world challenges through innovative solutions. 
 
